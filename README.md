@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Su.
-- 👀 I’m interested in front-end development  Large Language Model  AI.
+- 👀 I’m interested in front-end development , Large Language Model,  AI.
 - 🌱 major in SoftwareEngineering
 - 💞️ I’m looking to collaborate on web.
 - 📫 3577995715@qq.com
