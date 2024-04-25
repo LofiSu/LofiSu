@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Su.
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning LLM.
+- 👀 I’m interested in front-end development  Large Language Model  AI.
+- 🌱 major in SoftwareEngineering
 - 💞️ I’m looking to collaborate on web.
-- 📫 How to reach me :3577995715@qq.com
+- 📫 3577995715@qq.com
 - 😄 Pronouns: infp
 - ⚡ I like traveling, photography, painting and language learning. Currently learning German and English.
 - Hallo :)
