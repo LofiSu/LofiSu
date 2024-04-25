@@ -5,7 +5,7 @@
 - 📫 How to reach me :3577995715@qq.com
 - 😄 Pronouns: infp
 - ⚡ I like traveling, photography, painting and language learning. Currently learning German and English.
-- Hallo, studiert Susu?
+- Hallo :)
 
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
