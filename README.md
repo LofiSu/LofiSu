@@ -3,7 +3,7 @@
 - 🌱 major in SoftwareEngineering
 - 💞️ I’m looking to collaborate on web.
 - 📫 3577995715@qq.com
-- 😄 Pronouns: infp
+- 😄 Pronouns: estj
 - ⚡ I like traveling, photography, painting and language learning. Currently learning German and English.
 - Hallo :)
 
