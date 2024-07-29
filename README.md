@@ -1,20 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+%F0%9F%91%8B;A+Front-end+development+engineer)](https://git.io/typing-svg)
-- 👀 I’m looking to FRONT-END DEVELOP Jobs on web.
-- 🌱 major in SoftwareEngineering
-- 💞️ I’m interested in front-end development , Large Language Model,  AI , web3. 
-- 😄 Dream to be Apache Commiter.
-- ⚡ Connect Me：3577995715@qq.com
-  
-<p align="center">
-  <img align="center" height="100" width="25%" src="https://github-readme-stats.vercel.app/api?username=LofiSu&show_icons=true&theme=highcontrast"/>
-  <!-- 连续贡献数据记录 -->
-  <img  align="center" height="200" width="25%" src="https://streak-stats.demolab.com?user=LofiSu&theme=highcontrast&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+%F0%9F%91%8B;A+Front-End+Development+Engineer)](https://git.io/typing-svg)
+### 🏢 Work Experience
 
-<p align="center">
-  <img align="center"  width="25%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&theme=highcontrast"/>
-  <img align="center"  width="25%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&theme=highcontrast&hide_border=true&layout=donut-vertical&langs_count=6" />
-</p>
+
+
+
+</td>
+</tr>
+
+<tr>
+  
+  <td valign="top">
+
+<br>
+
+
+
+<br>
+
+
+
+<br>
+
+
+</td>
+</tr>
+
+### 🤺 About Me
+ <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=LofiSu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
+
+<p>&emsp;&emsp;👀 I’m looking to FRONT-END DEVELOP Jobs on web.</p>
+
+<p>&emsp;&emsp;🌱 Major in SoftwareEngineering</p>
+
+<p>&emsp;&emsp;Love Open Source😄 Dream to be Apache Commiter.</p>
+
+<p><strong>&emsp;&emsp;⚡ Connect Me：3577995715@qq.com</strong></p>
+ 
+\
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
