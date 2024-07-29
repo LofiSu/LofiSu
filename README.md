@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+%F0%9F%91%8B;A+Front-End+Development+Engineer)](https://git.io/typing-svg)
 
-### 🤺 About Me
+### About Me
  <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=LofiSu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
 
 <p><strong>&emsp;&emsp;👀 I’m looking for FRONT-END DEVELOP Jobs on web.</p>
@@ -9,7 +9,7 @@
 
 <p><strong>&emsp;&emsp;😄 Love Open Source . Dream to be an Apache Commiter.</p>
 
-<p><strong>&emsp;&emsp;⚡ Connect Me：3577995715@qq.com</strong></p>
+<p><strong>&emsp;&emsp;⚡ Connect Me：linsu269@gmail.com</strong></p>
  
 \
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
