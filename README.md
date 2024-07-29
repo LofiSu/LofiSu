@@ -1,19 +1,10 @@
-- 👋 Hi, I’m Su.
-- 👀 I’m interested in front-end development , Large Language Model,  AI.
+- 👋 Hi, I’m Su  Front End Developer in China.
+- 👀 I’m looking to FRONT-END DEVELOP Jobs on web.
 - 🌱 major in SoftwareEngineering
-- 💞️ I’m looking to collaborate on web.
-- 📫 3577995715@qq.com
-- 😄 Pronouns: estj
-- ⚡ I like traveling, photography, painting and language learning. Currently learning German and English.
-- Hallo :)
+- 💞️ I’m interested in front-end development , Large Language Model,  AI , web3. 
+- 😄 Dream to be Apache Commiter.
+- ⚡ Connect Me：3577995715@qq.com
   
-  <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
-
 <p align="center">
   <img align="center" height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=LofiSu&show_icons=true&theme=highcontrast"/>
   <!-- 连续贡献数据记录 -->
