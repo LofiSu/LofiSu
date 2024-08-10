@@ -5,8 +5,9 @@
 <p><strong>&emsp;&emsp;👀 I’m looking for FRONT-END DEVELOP Jobs.</p>
 
 <p><strong>&emsp;&emsp;🌱 Major in SoftwareEngineering</p>
+<p><strong>&emsp;&emsp;🔭 I’m Apache Contributor, keep contribution.</p>
 
-<p><strong>&emsp;&emsp;😄 Love Open Source . Dream to be an Apache Commiter.</p>
+<p><strong>&emsp;&emsp;😄 Love Open Source . </p>
 
 <p><strong>&emsp;&emsp;⚡ Connect Me：linsu269@gmail.com</strong></p>
  
