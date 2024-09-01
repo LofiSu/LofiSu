@@ -1,18 +1,34 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+%F0%9F%91%8B;A+Front-End+Development+Engineer)](https://git.io/typing-svg)
 
- <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=LofiSu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="flex: 2; margin-right: 20px;">
 
 <p><strong>&emsp;&emsp;👀 I’m looking for FRONT-END DEVELOP Jobs.</p>
-
-<p><strong>&emsp;&emsp;🌱 Major in SoftwareEngineering</p>
+<p><strong>&emsp;&emsp;🌱 Major in Software Engineering</p>
 <p><strong>&emsp;&emsp;🔭 I’m Apache Contributor, keep contribution.</p>
-
-<p><strong>&emsp;&emsp;😄 Love Open Source . </p>
-
+<p><strong>&emsp;&emsp;😄 Open Source Enthusiast 😊</p>
 <p><strong>&emsp;&emsp;⚡ Connect Me：linsu269@gmail.com</strong></p>
- 
-\
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+
+ ### ✨✨✨
+- Work Experience： [拿过的一些 offer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
+  - Internship：
+     - Bilibili - OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group  ---> 2024.7 to Now. <br>
+
+- MyBlog: [Click to Start](http://47.99.32.48:8090/) <br>
+- MyHomePage: [Click to Start](http://47.99.32.48:12445/)<br>
+- MyJueJin: [Click to Start](https://juejin.cn/user/2351234356882624)<br>
+
+</div>
+
+<div style="flex: 1;">
+<a><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=LofiSu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+</div>
+
+</div>
+
+
 
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
