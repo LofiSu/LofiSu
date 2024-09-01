@@ -13,9 +13,6 @@
 - Work Experience： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
   - Internship：
      - Bilibili - OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group ---From 2024.8 to Now. <br>
-
-- MyBlog: [Click to Start](http://47.99.32.48:8090/) <br>
-- MyHomePage: [Click to Start](http://47.99.32.48:12445/)<br>
 - MyJueJin: [Click to Start](https://juejin.cn/user/2351234356882624)<br>
 
 <!---
