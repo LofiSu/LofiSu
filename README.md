@@ -10,7 +10,7 @@
     
 
 ### ✨✨✨
-- Work Experience： [拿过的一些 offer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
+- Work Experience： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
   - Internship：
      - Bilibili - OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group ---From 2024.8 to Now. <br>
 
