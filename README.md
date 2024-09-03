@@ -1,21 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+%F0%9F%91%8B;A+Front-End+Development+Engineer)](https://git.io/typing-svg)
 <a><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LofiSu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
-
-<p><strong>&emsp;&emsp;👀 I’m looking for FRONT-END DEVELOP Jobs.</strong></p>
-<p><strong>&emsp;&emsp;🌱 Major in Software Engineering</strong></p>
-<p><strong>&emsp;&emsp;🔭 I’m Apache Contributor, keep contribution.</strong></p>
-<p><strong>&emsp;&emsp;😄 Open Source Enthusiast 😊</strong></p>
+    
+<p>&emsp;&emsp;😊Born in Chengdu on January 26, 2006</p>
+<p><strong>&emsp;&emsp;🔭 🌱 Major in Software Engineering.</strong></p>
+<p><strong>&emsp;&emsp;😄 Apache Contributor Open Source Enthusiast </strong></p>
 <p><strong>&emsp;&emsp;⚡ Connect Me：linsu269@gmail.com</strong></p>
     
 
-### ✨✨✨
+#### ✨✨✨👀 I’m looking for FRONT-END DEVELOP Jobs.
 - Work Experience： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
   - Internship：
      - Bilibili-- OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group ---From 2024.7 to Now. <br>
      - Meituan-- Takeaway business unit Campus team---From 2024.1 to 2024.6. <br>
 - [My Honors and Awards](https://github.com/LofiSu/LofiSu/blob/main/My%20Honors%20and%20Awards.md)
 - MyJueJin: [Click to Start](https://juejin.cn/user/2351234356882624)<br>
+
 
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
