@@ -2,13 +2,13 @@
 <a><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LofiSu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
     
-<p>&emsp;&emsp;😊Born in Chengdu on January 26, 2006</p>
-<p><strong>&emsp;&emsp;🔭 🌱 Major in Software Engineering.</strong></p>
-<p><strong>&emsp;&emsp;😄 Apache Contributor Open Source Enthusiast </strong></p>
-<p><strong>&emsp;&emsp;⚡ Connect Me：linsu269@gmail.com</strong></p>
+<p>&emsp;&emsp;😊 Born in Chengdu on January 26, 2006</p>
+<p>&emsp;&emsp;🔭 Major in Software Engineering.</p>
+<p>&emsp;&emsp;😄 Apache Contributor Open Source Enthusiast</p>
+<p>&emsp;&emsp;⚡ Connect Me：linsu269@gmail.com</p>
     
 
-#### ✨✨✨👀 I’m looking for FRONT-END DEVELOP Jobs.
+#### ✨✨✨🌱 I’m looking for FRONT-END DEVELOP Jobs.
 - Work Experience： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
   - Internship：
      - Bilibili-- OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group ---From 2024.7 to Now. <br>
