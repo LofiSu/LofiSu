@@ -11,7 +11,7 @@
 #### ✨✨✨🌱 I’m looking for FRONT-END DEVELOP Jobs.
 - Work Experience： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
   - Internship：
-     - Bilibili -- OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group ---From 2024.7 to Now. <br>
+     - Bilibili -- OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group ---From 2024.8 to Now. <br>
      - Meituan -- Takeaway business unit Campus team---From 2024.1 to 2024.6. <br>
 - [My Honors and Awards](https://github.com/LofiSu/LofiSu/blob/main/My%20Honors%20and%20Awards.md)
 - MyJueJin: [Click to Start](https://juejin.cn/user/2351234356882624)<br>
