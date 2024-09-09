@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+%F0%9F%91%8B;A+Front-End+Development+Engineer)](https://git.io/typing-svg)
 <a><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=LofiSu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LofiSu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
-    
+
 <p>&emsp;&emsp;😊 Born in Chengdu on January 26, 2006</p>
 <p>&emsp;&emsp;🔭 Major in Software Engineering.</p>
 <p>&emsp;&emsp;😄 Apache Contributor Open Source Enthusiast</p>
