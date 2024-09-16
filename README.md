@@ -10,7 +10,7 @@
     - [**Bilibili**](https://www.bilibili.com/) -- **OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group**  `Front-End Engineer` --- `From 2024.8 to Now .`
     - [**Meituan**](https://www.meituan.com/)--**Takeaway business unit Campus team** ---`From 2024.1 to 2024.6.`
 - [My Honors and Awards](https://github.com/LofiSu/LofiSu/blob/main/My%20Honors%20and%20Awards.md)
-- [MyBlog](https://www.lofisu.chat/) （加好友见博客详情介绍）
+- [MyBlog](https://www.lofisu.chat/) [加好友](https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5)
 - [MyJueJin](https://juejin.cn/user/2351234356882624)<br>
 
 
