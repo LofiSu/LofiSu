@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+✨+Open+Source+Enthusiast%F0%9F%91%8B;A+Front-End+Development+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+😊+Open+Source+Enthusiast✨%F0%9F%91%8B;A+Front-End+Development+Engineer)](https://git.io/typing-svg)
 <p>&emsp;&emsp;👩🏻‍💻Major in Software Engineering.</p>
 <p>&emsp;&emsp;🌟Apache Contributor.</p>
 <p>&emsp;&emsp;📮linsu269@gmail.com</p>
