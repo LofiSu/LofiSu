@@ -2,7 +2,7 @@
 <p>&emsp;&emsp;😊 Born in Chengdu on January 26, 2006</p>
 <p>&emsp;&emsp;🔭 Major in Software Engineering. Open Source Enthusiast </p>
 <p>&emsp;&emsp;😄 Apache Contributor.</p>
-<p>&emsp;&emsp;⚡ Connect Me：linsu269@gmail.com</p>
+<p>&emsp;&emsp;⚡ linsu269@gmail.com</p>
 
 #### ✨✨✨🌱 I’m looking for FRONT-END DEVELOP Jobs.
 - Work Experience： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
