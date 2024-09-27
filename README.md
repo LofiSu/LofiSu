@@ -2,8 +2,8 @@
 
 #### 👩🏻‍💻Major in Software Engineering.  🌟Apache Contributor. 📮linsu269@gmail.com
 
-## ✨✨✨🌱 I’m looking for FRONT-END DEVELOP Jobs.
-- **Work Experience**： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
+## ✨✨✨ I’m looking for FRONT-END DEVELOP Jobs.
+- **🌱 Work Experience**： [myOffer](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md)
   - **Internship**：
     - [**bilibili**](https://www.bilibili.com/) -- **OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group**  `Front-End Engineer` --- `From 2024.8 to Now .`
     - [**Meituan**](https://www.meituan.com/)--**Takeaway business unit Campus team** ---`From 2024.1 to 2024.6.`
