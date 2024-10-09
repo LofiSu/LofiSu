@@ -1,19 +1,17 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # 定时任务，每24小时运行一次
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+
+  # 允许手动触发工作流
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # 每次推送到 master 分支时运行
   push:
     branches:
     - master
-    
-  
 
 jobs:
   generate:
@@ -21,9 +19,9 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # 生成 GitHub 贡献图蛇形动画
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,14 +29,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+
+      # 将生成的文件推送到 output 分支
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # 确保这里是 output 分支
+          build_dir: dist        # 确保生成的文件放在 dist 文件夹中
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
