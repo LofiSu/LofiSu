@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+😊+Open+Source+Enthusiast✨)](https://git.io/typing-svg)
 #### **✨ I’m looking for FRONT-END DEVELOP Job.✨** [**myOffer**](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md) | [**My Honors and Awards**](https://github.com/LofiSu/LofiSu/blob/main/My%20Honors%20and%20Awards.md) <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LofiSu&theme=tokyonight&show_icons=true" height="150px"  align="right">
 #### **🌱Internship**：
 - [**bilibili**](https://www.bilibili.com/) -- **OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group**  `Front-End Engineer` --- `From 2024.8 to Now .`
