@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+I+am+Su+😊+Open+Source+Enthusiast✨%F0%9F%91%8B;A+Full-Stack+Development+Engineer)](https://git.io/typing-svg)
-
 # ✨ I’m looking for FRONT-END DEVELOP Job.✨
 ### **🌱 Work Experience**：
 ### **Internship**：
@@ -12,6 +11,8 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LofiSu&theme=tokyonight&show_icons=true" height="170px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LofiSu&layout=compact&theme=tokyonight" height="170px">
 <div>
+    
+
 
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
