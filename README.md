@@ -11,6 +11,12 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LofiSu&theme=tokyonight&show_icons=true" height="170px">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LofiSu&layout=compact&theme=tokyonight" height="170px">
 <div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LofiSu/LofiSu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LofiSu/LofiSu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LofiSu/LofiSu/output/github-contribution-grid-snake.svg">
+</picture>
+
     
 
 
