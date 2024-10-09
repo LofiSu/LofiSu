@@ -8,6 +8,10 @@
 ###  👩🏻‍💻Major in Software Engineering.  🌟Apache Contributor. 📮linsu269@gmail.com 
 ### [**myOffer**](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md) | [**My Honors and Awards**](https://github.com/LofiSu/LofiSu/blob/main/My%20Honors%20and%20Awards.md)  |  [**MyBlog**](https://www.lofisu.chat/) | [<加好友>](https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5) | [MyJueJin](https://juejin.cn/user/2351234356882624)<br>
 
+<div align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LofiSu&theme=tokyonight&show_icons=true" height="170px">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LofiSu&layout=compact&theme=tokyonight" height="170px">
+<div>
 
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
