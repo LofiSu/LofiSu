@@ -12,6 +12,8 @@
 
 #### 💬[**MyBlog**](https://www.lofisu.chat/)| 😺[加好友](https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5) | 🎯[MyJueJin](https://juejin.cn/user/2351234356882624) | 📮linsu269@gmail.com
 
+Dreaming to be a full-stack develop engineer.✨
+
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
