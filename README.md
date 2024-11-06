@@ -3,7 +3,7 @@
 #### **🌱Internship**：[**MyOffer**](https://github.com/LofiSu/LofiSu/blob/main/My%20offer.md) 
 - [**bilibili**](https://www.bilibili.com/) -- **OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group**  `Front-End Engineer` --- `From 2024.8 to Now .`
 - [**Meituan**](https://www.meituan.com/)--**Takeaway business unit Campus team** ---`From 2024.1 to 2024.6.`
-#### **💻 OpenSource Experience :** [**My Honors and Awards**](https://github.com/LofiSu/LofiSu/blob/main/My%20Honors%20and%20Awards.md) 
+#### **💻 OpenSource Experience :** [**Awards**](https://github.com/LofiSu/LofiSu/blob/main/Awards.md) 
 - 🌟Apache Open Source Contributor in Apache Fury. [Fury official website builder](https://fury.apache.org/)
 - Tencent Rhino Bird Open Source Contributor in Tencent [Omi](https://omi.cdn-go.cn/home/latest/).
 >**🏆Tencent Rhino Bird Open Source Practical Award**
