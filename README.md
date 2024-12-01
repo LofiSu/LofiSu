@@ -2,6 +2,7 @@
 ### **✨ I’m looking for FRONT-END DEVELOP Job.✨** 
 #### **🌱Internship**：[**Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
 - [**bilibili**](https://www.bilibili.com/) -- **OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group**  `Front-End Engineer` --- `From 2024.7 to Now .`
+
 - [**Meituan**](https://www.meituan.com/)--**Takeaway business unit Campus team** ---`From 2024.1 to 2024.6.`
 #### **💻 OpenSource Experience :** [**Awards**](https://github.com/LofiSu/LofiSu/blob/main/Awards.md) 
 - 🌟Apache Open Source Contributor in Apache Fury. [Fury official website builder](https://fury.apache.org/)
