@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Contributor+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)](https://git.io/typing-svg)<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LofiSu&theme=tokyonight&show_icons=true" height="120px" align="right" >
 ### **✨ I’m looking for FRONT-END DEVELOP Job.✨** 
 #### **🌱Internship**：[**Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
+- [**TikTok**](https://www.douyin.com/) -- **Live Streaming Department**  `Front-End Engineer` 
 - [**bilibili**](https://www.bilibili.com/) -- **OGV（Occupationally Generated Video）Technical Department + Value-added Front-End Business Group**  `Front-End Engineer` --- `From 2024.7 to 2024.11.`
-
 - [**Meituan**](https://www.meituan.com/)--**Takeaway business unit Campus team** ---`From 2024.1 to 2024.6.`
 #### **💻 OpenSource Experience :** [**Awards**](https://github.com/LofiSu/LofiSu/blob/main/Awards.md) 
 - 🌟Apache Open Source Contributor in Apache Fury. [Fury official website builder](https://fury.apache.org/)
