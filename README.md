@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Contributor+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)](https://git.io/typing-svg)<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LofiSu&theme=tokyonight&show_icons=true" height="120px" align="right" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Contributor+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)](https://git.io/typing-svg)
 ### **✨Looking for FRONT-END DEVELOP Job.✨** 
 #### **🌱Internship**：[**Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
 - [**TikTok**](https://www.douyin.com/) -- **Live Streaming Department**  `Now` 
@@ -12,10 +12,8 @@
 >**🏅Champion of the Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge**
 
 #### 💬[**MyBlog**](https://www.lofisu.chat/)| 😺[加好友](https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5) | 🎯[MyJueJin](https://juejin.cn/user/2351234356882624) | 📮lofisuchat@gmail.com | [学习交流群](https://github.com/LofiSu/LofiSu/blob/main/qr.md)
-
-Dreaming to be a full-stack develop engineer.✨
-
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LofiSu&theme=tokyonight&show_icons=true" height="120px" align="right" >
 --->
