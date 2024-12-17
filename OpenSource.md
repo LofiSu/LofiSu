@@ -4,9 +4,7 @@
 
 • 时间：5 月 - 7 月 / 7 月 - 10 月
 
-• 官网：
-
-• https://summer-ospp.ac.cn/
+• 官网：https://summer-ospp.ac.cn/
 
 • https://www.gitlink.org.cn/glcc/2024/projects
 
