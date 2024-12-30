@@ -41,4 +41,7 @@ https://remote.co/
 https://dejob.top/
 
 
-
+> # Forum
+- https://medium.com/
+- JitHub
+- 
