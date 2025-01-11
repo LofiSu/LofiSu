@@ -11,8 +11,9 @@
 - Alibaba Open Source Contributor in Alibaba Cloud ( [Higress](https://higress.cn/) --- [OpenYurt](https://openyurt.io/) ).
 >**🏅Champion of the Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge**
 
-#### 💬[**MyBlog**](https://www.lofisu.chat/)| 😺[加好友](https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5) | 🎯[MyJueJin](https://juejin.cn/user/2351234356882624) | 📮lofisuchat@gmail.com | [开源学习路线分享](https://github.com/LofiSu/LofiSu/blob/main/OpenSource.md) | [开发学习路线](https://github.com/kamranahmedse/developer-roadmap) | [2025咕咕记录](https://github.com/LofiSu/LofiSu/blob/main/TODO.md)| [学习交流群](https://github.com/LofiSu/LofiSu/blob/main/qr.md) |[AllGirls](https://github.com/LofiSu/LofiSu/blob/main/vx.md)
+#### 💬[**MyBlog**](https://www.lofisu.chat/)| 😺[加好友](https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5) | 🎯[MyJueJin](https://juejin.cn/user/2351234356882624) | 📮lofisuchat@gmail.com | [开发学习路线](https://github.com/kamranahmedse/developer-roadmap) | [2025咕咕记录](https://github.com/LofiSu/LofiSu/blob/main/TODO.md)| [学习交流群](https://github.com/LofiSu/LofiSu/blob/main/qr.md) |[AllGirls](https://github.com/user-attachments/assets/98d2ee13-2243-48cb-beee-3d8399fa73b8)
 <!---
 LofiSu/LofiSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->
