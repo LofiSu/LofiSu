@@ -2,9 +2,9 @@
 
 ### **✨Looking for FRONT-END DEVELOP Job.** 
 ### **🌱Internship**： [**Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
-#### **[TikTok](https://www.douyin.com/)** -- `Now`
-#### **[Bilibili](https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0)** -- `OGV Technology Department and Front-end Value-added Team` --- `2024.7 to 2024.11`
-#### **[MeiTuan](https://www.meituan.com/)** -- `Campus Delivery Online Operation Team`--- `2024.1 to 2024.6`
+#### **[TikTok](https://www.douyin.com/)** -- `Now.`
+#### **[Bilibili](https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0)** -- `OGV Technology Department and Front-end Value-added Team` --- `2024.7 to 2024.11.`
+#### **[MeiTuan](https://www.meituan.com/)** -- `Campus Delivery Online Operation Team`--- `2024.1 to 2024.6.`
 ### **💻 OpenSource Experience :** [**Awards**](https://github.com/LofiSu/LofiSu/blob/main/Awards.md) 
 ### **✨About Me ：**
 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**<br>
