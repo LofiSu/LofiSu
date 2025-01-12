@@ -9,7 +9,7 @@
 ### **✨About Me ：**
 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**<br>
 
-| 🪄 | 🎉 |
+| 🪄 Link | 🎉 |
 | ---- | ---- |
 | 💬[**MyBlog**](https://www.lofisu.chat/)  | 😺[加好友](https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BEE68E%A5) |
 | 🎵[网易云](https://music.163.com/#/artist?id=33710680) | 💫[Virtual UP in Bilibili](https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0) |
