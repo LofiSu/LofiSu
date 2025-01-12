@@ -16,7 +16,3 @@
 | 🎯[开发学习路线](https://github.com/kamranahmedse/developer-roadmap) | 💡[2025咕咕记录](https://github.com/LofiSu/LofiSu/blob/main/TODO.md) |
 | 🪁[学习交流群](https://github.com/LofiSu/LofiSu/blob/main/qr.md) | 🎀[AllGirls](https://github.com/user-attachments/assets/98d2ee13-2243-48cb-beee-3d8399fa73b8) | 
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LofiSu&show_icons=true&theme=tokyonight&count_private=true" alt="苏向夜's GitHub stats" />
-<div>
-
