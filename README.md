@@ -7,7 +7,7 @@
 #### **[MeiTuan](https://www.meituan.com/)** -- `Campus Delivery Online Operation Team`--- `2024.1 to 2024.6.`
 ### **💻 OpenSource Experience :** [**Awards**](https://github.com/LofiSu/LofiSu/blob/main/Awards.md) 
 ### 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**
-#### 💫Focus On AIGC Now 🤖
+#### 💫 Focus On AIGC Now .🤖
 
 | 🪄 Links | 🎉 | 🎊 |
 | ---- | ---- | ---- |
