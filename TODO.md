@@ -7,3 +7,6 @@
 - ant-design-x的sender扩展，他们还没审核我的pr等mr（）
 - 水系的官网，待简把ui和ux做完给我，待排期（）
 - kawa的codeless部分，目前进度在组件库物料（）
+
+> # LLM
+- https://www.agentrecipes.com/
