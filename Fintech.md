@@ -17,3 +17,9 @@ Quant Wiki 致力于打造一个免费开放、持续更新的 量化金融（qu
 ## Financial-Knowledge-Graphs
 Github (2.8k): https://github.com/jm199504/Financial-Knowledge-Graphs
 从数据导构建讲解很详细
+
+小论文：
+- https://arxiv.org/abs/2401.06139?utm_source=chatgpt.com
+- https://arxiv.org/abs/2206.06606?utm_source=chatgpt.com
+- https://arxiv.org/abs/2308.13414?utm_source=chatgpt.com
+- https://arxiv.org/abs/2311.15218?utm_source=chatgpt.com
