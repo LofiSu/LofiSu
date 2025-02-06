@@ -35,3 +35,6 @@ Adds React debugging tools to the Chrome Developer Tools. Created from revision 
 - SmartTOC
 - Speed Dial2 New Tab
 
+### 学术网站or工具
+- 学术版GPT 网页非盈利版：https://academic.chatwithpaper.org/
+
