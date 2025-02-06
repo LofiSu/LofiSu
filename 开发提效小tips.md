@@ -38,3 +38,9 @@ Adds React debugging tools to the Chrome Developer Tools. Created from revision 
 ### 学术网站or工具
 - 学术版GPT 网页非盈利版：https://academic.chatwithpaper.org/
 
+### AI杂七杂八堆一起
+- https://ollama.com/
+- https://api-docs.deepseek.com/prompt-library
+- https://account.siliconflow.cn/login?phone=none&uid=aioorydc9u&redirect=https%3A%2F%2Fcloud.siliconflow.cn%2F%3F
+- https://openrouter.ai/deepseek/deepseek-r1:free
+- https://segmentfault.com/a/1190000046072180
