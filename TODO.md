@@ -14,3 +14,8 @@
 
 > # LLM
 - https://www.agentrecipes.com/
+
+> # 一些好玩的项目
+- https://bolt.new/
+- https://www.freqtrade.io/en/stable/
+- https://documate.site/
