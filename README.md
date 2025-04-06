@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Contributor+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Conmitter+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
 
 ### **✨Looking for FRONT-END DEVELOP Job.** 
 ### **🌱Internship**： [**Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
@@ -6,6 +6,8 @@
 #### **[Bilibili](https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0)** -- `OGV Technology Department and Front-end Value-added Team` --- `2024.7 to 2024.11.`
 #### **[MeiTuan](https://www.meituan.com/)** -- `Campus Delivery Online Operation Team`--- `2024.1 to 2024.6.`
 ### **💻 OpenSource Experience :** [**Awards**](https://github.com/LofiSu/LofiSu/blob/main/Awards.md) 
+> - 🌟Apache Fury Commiter.
+> - 
 ### 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**
 ## 💫 Focus On AGI Now .🤖
 
