@@ -17,6 +17,7 @@ Cursor 的 .cursorrules 功能为 AI 助手提供了一个定制化的 Prompt。
 自动生成规则 
 可以在这个网站描述自己的需求然后生成规则 https://cursorrules.agnt.one/
 
+- 好用的API工具：https://apifox.com/
 ### 常用浏览器插件
 - ModHeader - Modify HTTP headers
 Modify HTTP request headers, response headers, and redirect URLs
