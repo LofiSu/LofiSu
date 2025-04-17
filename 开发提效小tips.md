@@ -118,5 +118,6 @@ https://dejob.top/
 - Next Ui
 
 
-> #其他
+> # 其他
 - https://github.com/binbat/live777
+- LLM排名：https://openrouter.ai/rankings
