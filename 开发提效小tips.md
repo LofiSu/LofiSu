@@ -117,7 +117,24 @@ https://dejob.top/
 - Magic Ui
 - Next Ui
 
+> # Prompt工具
+- https://github.com/hegelai/prompttools
+- https://github.com/promptfoo/promptfoo 提示词测试、对比和调优
+- https://www.promptlayer.com/LLM 提示词管理和监控平台，可追踪提示词使用情况，支持版本控制，和 LangChain 集成。
+- https://www.promptimizeai.com/ 专为初创公司和个人开发者设计的提示词管理工具。
+- https://github.com/f/awesome-chatgpt-prompts
+- https://github.com/PromptPal/PromptPal?utm_source=chatgpt.com
+- https://www.promptingguide.ai/zh
+- https://promptcraft.netlify.app/
+- https://www.prompthub.us/
+- https://github.com/reworkd/AgentGPT
+> 推荐使用场景建议
+> 提示词评估/测试工具： 推荐使用 PromptFoo 和 PromptTools。
+> 提示词管理与版本控制： PromptLayer 和 PromptPal 非常适合多人协作和大型项目。
+> 社区和灵感来源： Awesome ChatGPT Prompts 和 PromptCraft 提供丰富的提示词示例。
+> 科研/任务驱动型： Prompt Engineering Guide 提供系统的学习资源。
 
 > # 其他
 - https://github.com/binbat/live777
 - LLM排名：https://openrouter.ai/rankings
+
