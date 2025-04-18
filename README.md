@@ -9,7 +9,7 @@
 > - 🌟 Apache Fury official website builder.
 > - 🌟 Tencent Rhino Bird Open Source Contributor in Tencent Omi.
 > - 🏆 Tencent Rhino Bird Open Source Practical Award
-> - 🌟 Alibaba Open Source Contributor in Alibaba Cloud ( Higress --- OpenYurt ---Spring Ai Alibaba ).
+> - 🌟 Alibaba Open Source Contributor in AliCloud ( Higress --- OpenYurt ---Spring Ai Alibaba ).
 > - 🏅 Champion of the Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge
 ### 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**
 ## 💫 Focus On AGI Now .🤖
