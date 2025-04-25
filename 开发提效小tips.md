@@ -137,4 +137,8 @@ https://dejob.top/
 > # 其他
 - https://github.com/binbat/live777
 - LLM排名：https://openrouter.ai/rankings
-
+- 构建有效的Agent：https://www.anthropic.com/engineering/building-effective-agents
+- LLM驱动Agent框架：AutoGen
+- SOP驱动Agent框架：MetaGPT
+- 并行计算&汇总Agent框架：XAgent
+- AI 提示词自动化优化框架：PromptWizard   
