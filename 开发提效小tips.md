@@ -145,4 +145,7 @@ https://dejob.top/
 - LLM驱动Agent框架：AutoGen
 - SOP驱动Agent框架：MetaGPT
 - 并行计算&汇总Agent框架：XAgent
-- AI 提示词自动化优化框架：PromptWizard   
+- AI 提示词自动化优化框架：PromptWizard
+
+> # 一些AI项目有空看看
+- https://github.com/browser-use/workflow-use
