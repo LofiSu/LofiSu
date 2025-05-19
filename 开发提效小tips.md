@@ -1,7 +1,3 @@
-- Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket：https://deepwiki.org/ 
-
-
-
 ### Cursor小帮手
 配置 rules(.cursorrules)
 Cursor 的 .cursorrules 功能为 AI 助手提供了一个定制化的 Prompt。
@@ -149,3 +145,5 @@ https://dejob.top/
 
 > # 一些AI项目有空看看
 - https://github.com/browser-use/workflow-use
+- https://github.com/FellouAI/eko
+- Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket：https://deepwiki.org/ 
