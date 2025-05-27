@@ -5,6 +5,7 @@
 - https://www.kaggle.com/competitions
 - AdventureX
 - Google hackathon https://cloudonair.withgoogle.com/events/build-multi-agent-systems-with-the-agent-dev-kit-hackathon
+- https://hackathon.dev/
 
 
 > ## 25年开源待填坑记录（咕咕咕。。。🕊）
@@ -55,3 +56,4 @@
 - https://www.hackathon.com/
 - https://www.ethhangzhou.xyz/zh/
 - https://womentechmakers.devpost.com/
+- https://hackathon.dev/
