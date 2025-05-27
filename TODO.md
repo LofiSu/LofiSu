@@ -1,3 +1,11 @@
+
+> ## 25.5-6-7-8-9-10
+- IELTS
+- https://www.hackquest.io/zh-cn
+- https://www.kaggle.com/competitions
+- AdventureX
+- Google hackathon
+
 > ## 25年开源待填坑记录（咕咕咕。。。🕊）
 
  可以逐渐从给大社区的开源项目贡献到自己开发小工具获得star and用户。
