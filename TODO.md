@@ -4,7 +4,7 @@
 - https://www.hackquest.io/zh-cn
 - https://www.kaggle.com/competitions
 - AdventureX
-- Google hackathon
+- Google hackathon https://cloudonair.withgoogle.com/events/build-multi-agent-systems-with-the-agent-dev-kit-hackathon
 
 > ## 25年开源待填坑记录（咕咕咕。。。🕊）
 
