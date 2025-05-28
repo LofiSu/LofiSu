@@ -147,3 +147,6 @@ https://dejob.top/
 - https://github.com/browser-use/workflow-use
 - https://github.com/FellouAI/eko
 - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket：https://deepwiki.org/ 
+
+> # 好看组件库
+- https://ui.shadcn.com/
