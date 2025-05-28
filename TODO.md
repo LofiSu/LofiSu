@@ -1,5 +1,6 @@
 
 > ## 25.5-6-7-8-9-10
+> 开源暂时放下了
 - IELTS
 - https://www.hackquest.io/zh-cn
 - https://www.kaggle.com/competitions
