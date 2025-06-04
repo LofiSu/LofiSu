@@ -12,7 +12,7 @@
 > - 🌟 Alibaba Open Source Contributor in AliCloud ( Higress --- OpenYurt ---Spring Ai Alibaba ).
 > - 🏅 Champion of the Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge
 ### 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**
-## 💫 Focus On AGI Now .🤖
+## 💫 Focus On AI full-stack Now .🤖
 
 | 🪄 Links | 🎉 | 🎊 |
 | ---- | ---- | ---- |
