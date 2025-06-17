@@ -1,18 +1,18 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Committer+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
 
-### ✨Apache Fury Committer✨
-### **🌱Front-end Internship**： [**Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
+### Looking For LLM Developer Work.💫 Focus On AI-full-stack Now .🤖
+#### [**🌱 Internship Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
 #### **[TikTok](https://www.douyin.com/)** -- `2025.1 to Now.`
 #### **[Bilibili](https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0)** -- `OGV Technology Department and Front-end Value-added Team` --- `2024.7 to 2024.11.`
 #### **[MeiTuan](https://www.meituan.com/)** -- `Campus Delivery Online Operation Team`--- `2024.1 to 2024.6.`
 ### **💻 OpenSource Experience :** [**Awards**](https://github.com/LofiSu/LofiSu/blob/main/Awards.md) 
+### ✨Apache Fury Committer✨
 > - 🌟 Apache Fury official website builder.
 > - 🌟 Tencent Rhino Bird Open Source Contributor in Tencent Omi.
 > - 🏆 Tencent Rhino Bird Open Source Practical Award
 > - 🌟 Alibaba Open Source Contributor in AliCloud ( Higress --- OpenYurt ---Spring Ai Alibaba ).
 > - 🏅 Champion of the Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge
 ### 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**
-## 💫 Focus On AI full-stack Now .🤖
 
 | 🪄 Links | 🎉 | 🎊 |
 | ---- | ---- | ---- |
