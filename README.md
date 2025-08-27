@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Su+😊+Apache+Committer+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
-### 😊 **Hi ! ✨ I'm Su. 2006.1.26 born in ChengDu.**
+### **Hi ! ✨ I'm Sue. 2006.1.26 born in ChengDu.**
 ### 💫 Looking For LLM Developer Work. Focus On AI-full-stack Now .🤖
 #### [**🌱 Internship Offer**](https://github.com/LofiSu/LofiSu/blob/main/offer.md) 
 #### **[TikTok](https://www.douyin.com/)** -- `2025.1 to Now.`
