@@ -1,65 +1,61 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&random=false&width=600&lines=Hi👋+I+am+Su+😊+Apache+Committer+%F0%9F%91%8B;👩🏻‍💻+Major+in+Software+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h3 align="center">Hi ! ✨ I'm Sue. 2006.1.26 born in ChengDu.</h3>
-<h3 align="center">Currently looking for a full‑stack AI agent developer position.</h3>
-<h3 align="center">Maintainer of <a href="https://github.com/bytedance/deer-flow">ByteDance/DeerFlow</a></h3>
+  <!-- 动态打招呼 -->
+  <strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+  &nbsp;Hi, I'm <b>LofiSu.</b> Open Source Enthusiast.</strong>
+
+  <!-- 求职信息 -->
+  <p>
+    🔍 <strong>Currently looking for a full‑stack AI agent developer position.</strong>
+  </p>
+
+  <p>
+    <code>🌟 Apache Committer.</code>
+    <code>🦌 Maintainer of ByteDance/DeerFlow.</code>
+  </p>
+
+  <p>
+    <code>🐼 Born 2006.01.26 · Chengdu, China.</code>
+    <code>📍 Now Base in Beijing/Hangzhou.</code>
+  </p>
+
+  <!-- 联系方式 / 社交 -->
+  <p>
+    <a href="mailto:lofisuchat@gmail.com" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.xiaohongshu.com/user/profile/620103f00000000021029b87" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/小红书-阿酥在Coding-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
+    </a>
+    <a href="https://space.bilibili.com/489812144" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Bilibili-空生酥-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/>
+    </a>
+    <a href="https://music.163.com/#/artist?id=33710680" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/网易云音乐-空生酥-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white" alt="网易云音乐"/>
+    </a>
+  </p>
+
+</div>
+
+
+## 🌱 Internship Experience
+
+> 📄 [View Internship Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
+
+| Company | Team | Period |
+|---------|------|--------|
+| 🎵 **[TikTok](https://www.douyin.com/)** | Douyin AI4SE RL&Infra | `2025.01 - Present` |
+| 📺 **[Bilibili](https://space.bilibili.com/489812144)** | OGV Technology Dept · Front-end Value-added Team | `2024.07 – 2024.11` |
+| 🛵 **[MeiTuan](https://www.meituan.com/)** | Campus Delivery Online Operation Team | `2024.01 – 2024.06` |
 
 ---
 
-<h3>🌱 Internship Experience</h3>
+## 💻 Open Source Experience
 
-<p>
-<strong><a href="https://www.douyin.com/">TikTok</a></strong> -- <code>2025.1 to Now.</code><br/>
-<strong><a href="https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0">Bilibili</a></strong> -- <code>OGV Technology Department and Front-end Value-added Team</code> --- <code>2024.7 to 2024.11.</code><br/>
-<strong><a href="https://www.meituan.com/">MeiTuan</a></strong> -- <code>Campus Delivery Online Operation Team</code>--- <code>2024.1 to 2024.6.</code>
-</p>
-
----
-
-<h3>💻 OpenSource Experience :</h3>
-<p><a href="https://github.com/LofiSu/LofiSu/blob/main/Awards.md"><strong>Awards</strong></a></p>
-
-> - 🌟 ✨Apache Fory Committer✨  
-> - 🌟 Tencent Rhino Bird Open Source Contributor in Tencent Omi.  
-> - 🏆 Tencent Rhino Bird Open Source Practical Award  
-> - 🌟 Alibaba Open Source Contributor in AliCloud ( Higress --- OpenYurt ---Spring Ai Alibaba ).  
-> - 🏅 Champion of the Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge  
-
----
-
-<h3>🪄 Links</h3>
-
-<table>
-  <tr>
-    <th>🪄 Links</th>
-    <th>🎉</th>
-    <th>🎊</th>
-  </tr>
-  <tr>
-    <td>💬<a href="https://www.lofisu.chat/"><strong>MyBlog</strong></a></td>
-    <td>🎵<a href="https://music.163.com/#/artist?id=33710680"><strong>网易云</strong></a></td>
-    <td>💫<a href="https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0"><strong>Virtual UP in Bilibili</strong></a></td>
-  </tr>
-  <tr>
-    <td>😺<a href="https://github.com/LofiSu/myBlog?tab=readme-ov-file#%E5%8F%8B%E6%83%85%E9%93%BEE68E%A5"><strong>加好友</strong></a></td>
-    <td>😊<a href="https://juejin.cn/user/2351234356882624"><strong>MyJueJin</strong></a></td>
-    <td><a href="https://github.com/kawa-fe/kawa-resume"><strong>🚀AGI-Space</strong></a></td>
-  </tr>
-  <tr>
-    <td>📮<strong>lofisuchat@gmail.com</strong>🌟</td>
-    <td>💡<a href="https://github.com/LofiSu/LofiSu/blob/main/TODO.md"><strong>2025咕咕记录</strong></a></td>
-    <td>📈<a href="https://github.com/LofiSu/LofiSu/blob/main/Fintech.md"><strong>量化小白入门</strong></a></td>
-  </tr>
-  <tr>
-    <td>🎯<strong>开发学习路线重新整理中</strong></td>
-    <td>🤖<a href="https://github.com/luban-agi/Awesome-AIGC-Tutorials"><strong>AIGC学习路线</strong></a>🌟</td>
-    <td>🎮<a href="https://github.com/LofiSu/LofiSu/blob/main/web3road.md"><strong>Web3学习路线</strong></a></td>
-  </tr>
-  <tr>
-    <td>🪁<a href="https://github.com/LofiSu/LofiSu/blob/main/qr.md"><strong>学习交流群</strong></a></td>
-    <td>🎀<a href="https://www.xiaohongshu.com/user/profile/620103f00000000021029b87"><strong>我的小红书🔗</strong></a></td>
-    <td>🧑‍💻<a href="https://github.com/LofiSu/LofiSu/blob/main/%E5%BC%80%E5%8F%91%E6%8F%90%E6%95%88%E5%B0%8Ftips.md"><strong>开发提效小tips</strong></a></td>
-  </tr>
-</table>
+> 🏅 [View Awards →](https://github.com/LofiSu/LofiSu/blob/main/Awards.md)
+- 🌟 **🦌 Maintainer of [ByteDance/DeerFlow.](https://github.com/bytedance/deer-flow)** 
+- 🌟 **Apache Fury Committer** ✨
+- 🌟 **Tencent Rhino Bird** Open Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
+- 🏆 **Tencent Rhino Bird** Open Source Practical Award
+- 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
+- 🥇 **Champion** — Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge
