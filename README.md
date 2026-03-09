@@ -34,15 +34,17 @@
 <table>
 <tr>
 <td valign="top" width="48%">
-
+  
+## 💼 Work Experience
+  
 ## 🌱 Internship Experience
 
 > 📄 [View Internship Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
 
-| Company | Team | Period |
-|---------|------|--------|
-| 🎵 **[TikTok](https://www.douyin.com/)** | Douyin AI4SE RL&Infra | `2025.01 - Present` |
-| 📺 **[Bilibili](https://space.bilibili.com/489812144)** | OGV Technology Dept | `2024.07 – 2024.11` |
+<p>
+<strong>TikTok</strong> -- <code>Douyin AI4SE RL&Infra </code> --- <code>2025.1 to Now.</code><br/>
+<strong>Bilibili</strong> -- <code>OGV Technology Dept </code> --- <code>2024.7 to 2024.11.</code><br/>
+</p>
 
 </td>
 <td valign="top" width="48%">
