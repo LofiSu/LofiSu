@@ -53,8 +53,8 @@
 
 > 🏅 [View Awards →](https://github.com/LofiSu/LofiSu/blob/main/Awards.md)
 
-- 🌟 **🦌 Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
-- 🌟 **Apache Fury Committer** ✨
+- ✨ **🦌 Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
+- ✨ **Apache Committer — [Fory.apache](https://fory.apache.org/)**
 - 🌟 **Tencent Rhino Bird** Open Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
 - 🏆 **Tencent Rhino Bird** Open Source Practical Award
 - 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
