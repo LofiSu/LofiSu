@@ -60,10 +60,8 @@
 
 - 🦌 **Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
 - ✨ **Apache Committer — [Fory.apache](https://fory.Apache.org/)**
-- 🌟 **Tencent Rhino Bird** Open Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
-- 🏆 **Tencent Rhino Bird** Open Source Practical Award
+- 🏆 **Tencent Rhino Bird** Open Source Practical AwardOpen Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
 - 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
-- 🥇 **Champion** — Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge
 
 </td>
 </tr>
