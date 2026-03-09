@@ -11,20 +11,27 @@
     <code>📍 Now Base in Beijing/Hangzhou.</code>
   </p>
 
-  <p>
-    <a href="mailto:lofisuchat@gmail.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.xiaohongshu.com/user/profile/620103f00000000021029b87" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/小红书-阿酥在Coding-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
-    </a>
-    <a href="https://space.bilibili.com/489812144" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Bilibili-空生酥-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/>
-    </a>
-    <a href="https://music.163.com/#/artist?id=33710680" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/网易云音乐-空生酥-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white" alt="网易云音乐"/>
-    </a>
-  </p>
+<p>
+  <a href="https://mp.weixin.qq.com/s/uOAeNE5lcGjCB13vUwjNcg" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/微信公众号-阿酥在Coding-1AAD19?style=flat-square&logo=wechat&logoColor=white" alt="微信公众号"/>
+  </a>
+
+  <a href="mailto:lofisuchat@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.xiaohongshu.com/user/profile/620103f00000000021029b87" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/小红书-阿酥在Coding-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
+  </a>
+
+  <a href="https://space.bilibili.com/489812144" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Bilibili-空生酥-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/>
+  </a>
+
+  <a href="https://music.163.com/#/artist?id=33710680" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/网易云音乐-空生酥-C20C0C?style=flat-square&logo=neteasemusic&logoColor=white" alt="网易云音乐"/>
+  </a>
+</p>
 
 </div>
 <table>
