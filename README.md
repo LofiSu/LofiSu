@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+LofiSu.+Open+Source+Enthusiast." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+LofiSu.+AI+Full-Stack+Developer." alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟Apache+Committer.+🦌+Maintainer+of+ByteDance+/+DeerFlow.;" alt="Profile Info"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
@@ -38,7 +38,9 @@
 > 📄 [View Internship Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
 
 <p>
-<strong>TikTok</strong> -- <code>Douyin AI4SE RL&Infra </code> --- <code>2025.1 to Now.</code><br/>
+<strong>Bytedance</strong> -- <code>Douyin AI4SE RL&Infra </code> --- <code>2025.12 to Now.</code><br/>
+<strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> --- <code>2025.5 to 9</code><br/>
+<strong>ByteDance</strong> -- <code>Live Streaming Tech Team </code> --- <code>2025.1 to 5</code><br/>
 <strong>Bilibili</strong> -- <code>OGV Technology Dept </code> --- <code>2024.7 to 2024.11.</code><br/>
 </p>
 
