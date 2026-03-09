@@ -1,10 +1,6 @@
 <div align="center">
-
-  <!-- 动态打招呼 -->
   <strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
   &nbsp;Hi, I'm <b>LofiSu.</b> Open Source Enthusiast.</strong>
-
-  <!-- 求职信息 -->
   <p>
     🔍 <strong>Currently looking for a full‑stack AI agent developer position.</strong>
   </p>
@@ -19,7 +15,6 @@
     <code>📍 Now Base in Beijing/Hangzhou.</code>
   </p>
 
-  <!-- 联系方式 / 社交 -->
   <p>
     <a href="mailto:lofisuchat@gmail.com" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -36,7 +31,9 @@
   </p>
 
 </div>
-
+<table>
+<tr>
+<td valign="top" width="48%">
 
 ## 🌱 Internship Experience
 
@@ -45,17 +42,22 @@
 | Company | Team | Period |
 |---------|------|--------|
 | 🎵 **[TikTok](https://www.douyin.com/)** | Douyin AI4SE RL&Infra | `2025.01 - Present` |
-| 📺 **[Bilibili](https://space.bilibili.com/489812144)** | OGV Technology Dept · Front-end Value-added Team | `2024.07 – 2024.11` |
-| 🛵 **[MeiTuan](https://www.meituan.com/)** | Campus Delivery Online Operation Team | `2024.01 – 2024.06` |
+| 📺 **[Bilibili](https://space.bilibili.com/489812144)** | OGV Technology Dept | `2024.07 – 2024.11` |
 
----
+</td>
+<td valign="top" width="48%">
 
 ## 💻 Open Source Experience
 
 > 🏅 [View Awards →](https://github.com/LofiSu/LofiSu/blob/main/Awards.md)
-- 🌟 **🦌 Maintainer of [ByteDance/DeerFlow.](https://github.com/bytedance/deer-flow)** 
+
+- 🌟 **🦌 Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
 - 🌟 **Apache Fury Committer** ✨
 - 🌟 **Tencent Rhino Bird** Open Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
 - 🏆 **Tencent Rhino Bird** Open Source Practical Award
 - 🌟 **Alibaba** Open Source Contributor — [Higress](https://github.com/alibaba/higress) · [OpenYurt](https://github.com/openyurtio/openyurt) · [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)
 - 🥇 **Champion** — Alibaba Cloud Tianchi 2024 Cloud Native Programming Challenge
+
+</td>
+</tr>
+</table>
