@@ -1,13 +1,9 @@
 <div align="center">
-  <strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-  &nbsp;Hi, I'm <b>LofiSu.</b> Open Source Enthusiast.</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+LofiSu.+Open+Source+Enthusiast." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟Apache+Committer.+🦌+Maintainer+of+ByteDance+/+DeerFlow.;" alt="Profile Info"/>
   <p>
-    🔍 <strong>Currently looking for a full‑stack AI agent developer position.</strong>
-  </p>
-
-  <p>
-    <code>🌟 Apache Committer.</code>
-    <code>🦌 Maintainer of ByteDance/DeerFlow.</code>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently looking for a full‑stack AI agent developer position.</strong>
   </p>
 
   <p>
@@ -35,9 +31,9 @@
 <tr>
 <td valign="top" width="48%">
   
-## 💼 Work Experience
+#### 💼 Work Experience
   
-## 🌱 Internship Experience
+#### 🌱 Internship Experience
 
 > 📄 [View Internship Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
 
@@ -49,11 +45,11 @@
 </td>
 <td valign="top" width="48%">
 
-## 💻 Open Source Experience
+#### 💻 Open Source Experience
 
 > 🏅 [View Awards →](https://github.com/LofiSu/LofiSu/blob/main/Awards.md)
 
-- ✨ **🦌 Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
+- 🦌 **Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
 - ✨ **Apache Committer — [Fory.apache](https://fory.apache.org/)**
 - 🌟 **Tencent Rhino Bird** Open Source Contributor — [Tencent Omi](https://github.com/Tencent/omi)
 - 🏆 **Tencent Rhino Bird** Open Source Practical Award
