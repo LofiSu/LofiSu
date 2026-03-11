@@ -42,7 +42,7 @@
   
 #### 🌱 Internship Experience
 
-> 📄 [View Internship Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
+> 📄 [View Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
 
 <p>
 <strong>Bytedance</strong> -- <code>Douyin AI4SE RL&Infra </code> -- <code>2025.12 to Now.</code><br/>
