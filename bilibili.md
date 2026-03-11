@@ -4,7 +4,6 @@
               哔哩哔哩 | OGV技术部 + 前端增值业务组 --- 2024.8 - 2024.11
             </h3>
           </div>
-          {/* Rush */}
           <div>
             <div className="text-lg font-bold text-blue-900">
               Rush | 为产运研服务的微前端架构的低代码流程工作台 |
@@ -16,7 +15,6 @@
               </li>
             </ul>
           </div>
-          {/* C端 */}
           <div className="text-lg font-bold text-blue-900">
             C端 | 增值业务 | H5与PC活动页开发 ｜ 官网开发
           </div>
@@ -25,7 +23,6 @@
               负责盒中之海电影活动页和11月礼包活动购票、观影券、分享、转增、活动、评论、票据等组件编写等。
             </li>
           </ul>
-          {/* B端 */}
           <div className="text-lg font-bold text-blue-900">
             B端 |负责OGV与UGC运营、物料、版权及视频中台的开发 |
             以自研组件库+AntD为主
