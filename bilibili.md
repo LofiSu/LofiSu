@@ -1,7 +1,6 @@
-<div className="mt-2">
-      <div className="flex items-center bg-blue-50 p-1 h-10 rounded-md">
+<div className="flex items-center bg-blue-50 p-1 h-10 rounded-md">
             <h3 className="text-l font-semibold text-blue-500 ">
-              哔哩哔哩 | OGV技术部 + 前端增值业务组 --- 2024.8 - 2024.11
+              哔哩哔哩 | OGV技术部 --- 2024.8 - 2024.11
             </h3>
           </div>
           <div>
