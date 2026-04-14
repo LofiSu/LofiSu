@@ -8,7 +8,7 @@
 
   <p>
     <code>🐼 Born 2006.01.26 · Chengdu, China.</code>
-    <code>📍 Now Base in Beijing/Hangzhou.</code>
+    <code>📍 Now Base in Beijing/ShangHai.</code>
   </p>
 
 <p>
