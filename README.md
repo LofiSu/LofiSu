@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🌟Apache+Committer.+🦌+Maintainer+of+ByteDance+/+DeerFlow.;" alt="Profile Info"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently Working on Agentic SFT, RL, and Infra.</strong>
+    <strong>I'm currently Focus on Agentic SFT, RL, and Infra.</strong>
   </p>
 
   <p>
