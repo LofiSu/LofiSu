@@ -45,7 +45,7 @@
 > 📄 [View Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
 
 <p>
-<strong>Bytedance</strong> -- <code>Douyin AI4SE RL&Infra </code> -- <code>2025.12 to Now.</code><br/>
+<strong>Bytedance</strong> -- <code>DouyinAI AI4SE Agentic SFT·RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
 <strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> -- <code>2025.5 to 9.</code><br/>
 <strong>ByteDance</strong> -- <code>Live Streaming Tech Team </code> -- <code>2025.1 to 5.</code><br/>
 <strong>Bilibili</strong> -- <code>OGV Tech Team </code> -- <code>2024.7 to 2024.11.</code><br/>
