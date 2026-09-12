@@ -21,9 +21,6 @@
 #### 💼 Work Experience
   
 #### 🌱 Internship Experience
-
-> 📄 [View Offers →](https://github.com/LofiSu/LofiSu/blob/main/offer.md)
-
 <p>
 <strong>Bytedance</strong> -- <code>DouyinAI AI4SE Agentic RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
 <strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> -- <code>2025.5 to 9.</code><br/>
