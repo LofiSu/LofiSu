@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+LofiSu.+AI+Full-Stack+Engineer" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently Focus on Agentic Infra.</strong>
+    <strong>I'm currently focused on Agent Infra and open to job opportunities.</strong>
   </p>
-
+  <p><strong>☁️Connect me on X: <a href="https://x.com/su_lofi">su_lofi</a></strong></p>
   <p>
     <code>🐼 Born 2006.01.26 · Chengdu, China.</code>
-    <code>📍 Now Base in BeiJing.</code>
+    <code>📍 Now Base in Hangzhou.</code>
   </p>
 
 <p>
