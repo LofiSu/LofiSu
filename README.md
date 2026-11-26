@@ -19,10 +19,13 @@
 <td valign="top" width="50%">
   
 #### 💼 Work Experience
+<p>
+<strong>MeiTuan（Beidou Talent Program）</strong> -- <code>Beam</code> -- <code>2026.8 to 11.</code><br/>
+</p>
   
 #### 🌱 Internship Experience
 <p>
-<strong>Bytedance</strong> -- <code>DouyinAI AI4SE Agentic RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
+<strong>Bytedance</strong> -- <code>DouyinAI Agentic RL·Infra </code> -- <code>2025.12 to 4.</code><br/>
 <strong>ByteDance</strong> -- <code>E-commerce Tech Team</code> -- <code>2025.5 to 9.</code><br/>
 <strong>ByteDance</strong> -- <code>Live Streaming Tech Team </code> -- <code>2025.1 to 5.</code><br/>
 <strong>Bilibili</strong> -- <code>OGV Tech Team </code> -- <code>2024.7 to 2024.11.</code><br/>
