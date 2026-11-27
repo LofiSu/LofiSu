@@ -46,3 +46,19 @@
 </td>
 </tr>
 </table>
+
+<table aria-label="GitHub activity">
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LofiSu&amp;theme=tokyonight" alt="LofiSu's GitHub stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LofiSu&amp;theme=tokyonight" alt="LofiSu's top languages by repository count" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LofiSu&amp;theme=tokyonight" alt="LofiSu's GitHub contribution activity" />
+    </td>
+  </tr>
+</table>
