@@ -37,6 +37,8 @@
 #### 💻 Open Source Experience
 
 > 🏅 [View Awards →](https://github.com/LofiSu/LofiSu/blob/main/Awards.md)
+>
+> 🐱 [自愿赞赏 · 谢谢支持创作喵 →](Appreciate.md)
 
 - 🦌 **Maintainer of [ByteDance/DeerFlow](https://github.com/bytedance/deer-flow)**
 - ✨ **Apache Committer — [Fory.Apache](https://fory.apache.org/)**
@@ -62,12 +64,3 @@
     </td>
   </tr>
 </table>
-
-#### Appreciate
-
-<div align="center">
-  <p>🐱 自愿赞赏 · 谢谢支持创作喵</p>
-  <p>
-    <img src="assets/wechat-appreciate.jpg" alt="微信自愿赞赏码：自愿赞赏 谢谢支持创作喵" width="480" />
-  </p>
-</div>
