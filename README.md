@@ -62,3 +62,12 @@
     </td>
   </tr>
 </table>
+
+#### Appreciate
+
+<div align="center">
+  <p>🐱 自愿赞赏 · 谢谢支持创作喵</p>
+  <p>
+    <img src="assets/wechat-appreciate.jpg" alt="微信自愿赞赏码：自愿赞赏 谢谢支持创作喵" width="480" />
+  </p>
+</div>
