@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently focused on Agent Infra and open to job opportunities.</strong>
   </p>
-  <p><strong>☁️ Connect me on X: <a href="https://x.com/su_lofi">su_lofi</a></strong></p>
+  <p><strong>☁️ Connect me on X: <a href="https://x.com/su_lofi">su_lofi</a> · <a href="https://github.com/LofiSu/LofiSu/blob/main/Appreciate.md">自愿赞赏 · 谢谢支持创作喵</a></strong></p>
   <p>
     <code>🐼 Born 2006.01.26 · Chengdu, China.</code>
     <code>📍 Now Base in Hangzhou.</code>
